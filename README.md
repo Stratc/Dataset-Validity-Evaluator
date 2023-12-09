@@ -3,6 +3,7 @@
 A computer science project, that evaluates an input data set. After it evaulates the dataset it creates a graph!
 
 To use:
+
 Step 1: Download the python file.
 
 Step 2: Put the python file into some sort of complier to run the python file.
