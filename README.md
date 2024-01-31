@@ -18,7 +18,7 @@ _Accuracy: The amount of correctly classifed testing inputs from the dataset_
 
 1. Install the tensor flow library.
 
-> [!WARNING]
+>[!WARNING]
 > **If you do NOT install the tensor flow library into the python ide the compiler will output lots of errors.**
 
 2. Download the python file.
@@ -27,7 +27,9 @@ _Accuracy: The amount of correctly classifed testing inputs from the dataset_
 
 4. Let the program run. It has only been tested on linux and windows based systems.
 
-5.  Watch as the graph gets produced if on a desktop, otherwise it will be saved to the system. The outputs are also printed to the console so you can check there if you want to see the direct values of the Neural network.
+5. Watch as the graph gets produced if on a desktop, otherwise it will be saved to the system. The outputs are also printed to the console so you can check there if you want to see the direct values of the Neural network.
+   
+6. If you would like to save the graph you download. It will **NOT** save the graph automatically you have to do this manually.
 
 
 
