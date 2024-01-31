@@ -21,13 +21,13 @@ _Accuracy: The amount of correctly classifed testing inputs from the dataset_
 > [!WARNING]
 > **If you do NOT install the tensor flow library into the python ide the compiler will output lots of errors.**
 
-1. Download the python file.
+2. Download the python file.
 
-1. Put the python file into some sort of complier to run the python file.
+3. Put the python file into some sort of complier to run the python file.
 
-1. Let the program run. It has only been tested on linux and windows based systems.
+4. Let the program run. It has only been tested on linux and windows based systems.
 
-1.  Watch as the graph gets produced if on a desktop, otherwise it will be saved to the system. The outputs are also printed to the console so you can check there if you want to see the direct values of the Neural network.
+5.  Watch as the graph gets produced if on a desktop, otherwise it will be saved to the system. The outputs are also printed to the console so you can check there if you want to see the direct values of the Neural network.
 
 
 
